@@ -1,4 +1,4 @@
-# Retrofuture Space Plane Parts :: UNOFFICIAL
+# Retrofuture Space Plane Parts :: Archive
 
 This is a unofficial, non authorized repository for *8Retrofuture Space Plane Parts** for historical reference and troubleshooting.
 
@@ -7,15 +7,5 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 
 ## In a Hurry
 
-* [Binaries](https://github.com/net-lisias-ksph/Retrofuture-Space-Plane-Parts/tree/Archive)
-* [History](https://github.com/net-lisias-ksph/Retrofuture-Space-Plane-Parts/tree/History)
-* [Front Page](https://github.com/net-lisias-ksph/Retrofuture-Space-Plane-Parts)
+* [Archive](./Archive)
 * [Change Log](./CHANGE_LOG.md)
-
-
-## References
-
-* [lemlur](https://www.spacedock.info/profile/lemlur): Maintainer
-	* [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/127736-retrofuture-11312/)
-	* [Spacedock](https://spacedock.info/mod/197/retrofuture%20space%20plane%20parts)
-
