@@ -15,7 +15,11 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 
 ## References
 
+* [linuxgurugamer](https://forum.kerbalspaceprogram.com/index.php?/profile/129964-linuxgurugamer/)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/184628-*)
+	+ [SpaceDock](https://spacedock.info/mod/2153/Retrofuture%20Space%20Plane%20Parts%20Modernized)
+	+ [Github](https://github.com/linuxgurugamer/RetroFuture)
 * [lemlur](https://www.spacedock.info/profile/lemlur): Maintainer
-	* [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/127736-retrofuture-11312/)
-	* [Spacedock](https://spacedock.info/mod/197/retrofuture%20space%20plane%20parts)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/127736-retrofuture-11312/)
+	+ [Spacedock](https://spacedock.info/mod/197/retrofuture%20space%20plane%20parts)
 
