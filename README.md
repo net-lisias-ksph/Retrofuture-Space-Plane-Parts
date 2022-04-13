@@ -7,9 +7,9 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 
 ## In a Hurry
 
-* [Binaries](https://github.com/net-lisias-ksph/Retrofuture-Space-Plane-Parts/tree/Archive)
-* [History](https://github.com/net-lisias-ksph/Retrofuture-Space-Plane-Parts/tree/History)
-* [Front Page](https://github.com/net-lisias-ksph/Retrofuture-Space-Plane-Parts)
+* [Binaries](https://github.com/net-lisias-ksph/lemlur--Retrofuture-Space-Plane-Parts/tree/Archive)
+* [History](https://github.com/net-lisias-ksph/lemlur--Retrofuture-Space-Plane-Parts/tree/History)
+* [Front Page](https://github.com/net-lisias-ksph/lemlur--Retrofuture-Space-Plane-Parts)
 * [Change Log](./CHANGE_LOG.md)
 
 
